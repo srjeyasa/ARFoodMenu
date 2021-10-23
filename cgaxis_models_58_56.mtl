@@ -24,10 +24,10 @@ newmtl cgaxis_models_58_56_01
 	Kd 0.500000000000 0.500000000000 0.500000000000
 	Ks 0.000000000000 0.000000000000 0.000000000000
 	Ke 0.000000000000 0.000000000000 0.000000000000
-	map_Ka maps/cgaxis_models_58_56_01.jpg
-	map_Kd maps/cgaxis_models_58_56_01.jpg
-	map_bump maps/cgaxis_models_58_56_01_bump.jpg
-	bump maps/cgaxis_models_58_56_01_bump.jpg
+	map_Ka cgaxis_models_58_56_01.jpg
+	map_Kd cgaxis_models_58_56_01.jpg
+	map_bump cgaxis_models_58_56_01_bump.jpg
+	bump cgaxis_models_58_56_01_bump.jpg
 
 newmtl cgaxis_models_58_56_02
 	Ns 10.000000000000
@@ -40,7 +40,7 @@ newmtl cgaxis_models_58_56_02
 	Kd 0.500000000000 0.500000000000 0.500000000000
 	Ks 0.000000000000 0.000000000000 0.000000000000
 	Ke 0.000000000000 0.000000000000 0.000000000000
-	map_Ka maps/cgaxis_models_58_56_02.jpg
-	map_Kd maps/cgaxis_models_58_56_02.jpg
-	map_bump maps/cgaxis_models_58_56_02_bump.jpg
-	bump maps/cgaxis_models_58_56_02_bump.jpg
+	map_Ka cgaxis_models_58_56_02.jpg
+	map_Kd cgaxis_models_58_56_02.jpg
+	map_bump cgaxis_models_58_56_02_bump.jpg
+	bump cgaxis_models_58_56_02_bump.jpg
