@@ -15,11 +15,11 @@
 <body>
   <a-scene embedded arjs>
     <a-assets>
-      <a-asset-item id="tree-obj" src="cgaxis_models_58_56.obj"></a-asset-item>
-      <a-asset-item id="tree-mtl" src="cgaxis_models_58_56.mtl"></a-asset-item>
+      <a-asset-item id="tree-obj" src="textured.obj"></a-asset-item>
+      <a-asset-item id="tree-mtl" src="textured.mtl"></a-asset-item>
     </a-assets>
     <a-marker preset = "hiro">
-      <a-entity obj-model = "obj: #tree-obj; mtl: #tree-mtl" position = "0 0 0" scale = "0.25 0.25 0.25" rotation = 270 0 0"></a-entity>
+      <a-entity obj-model = "obj: #tree-obj; mtl: #tree-mtl" position = "0 0 0" scale = "0.25 0.25 0.25" rotation = "0 0 0"></a-entity>
     </a-marker>
     <a-entity camera></a-entity>
   </a-scene>
